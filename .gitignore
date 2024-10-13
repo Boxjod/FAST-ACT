@@ -1,0 +1,12 @@
+arx_act/venv/*
+trainings/*
+datasets/*
+
+realsense_camera/devel/*
+realsense_camera/build/*
+fix_right_arm/devel/*
+fix_right_arm/build/*
+
+**/__pycache__
+*.pyc
+
